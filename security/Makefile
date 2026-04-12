@@ -29,5 +29,3 @@ obj-$(CONFIG_SECURITY_IPE)		+= ipe/
 
 # Object integrity file lists
 obj-$(CONFIG_INTEGRITY)			+= integrity/
-
-obj-$(CONFIG_BBG) += baseband-guard/
